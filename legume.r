@@ -13,8 +13,8 @@ dat <- read.table("legume4.csv",header=T,sep=",")
 
 
 ## Test response
-test.var <- "threat"
-#test.var <- "IUCN"
+#test.var <- "threat"
+test.var <- "IUCN"
 #test.var <- "invasive"
 #test.var <- "both"
 
