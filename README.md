@@ -1,4 +1,4 @@
-# legumeStatus
+# predicting legume threat or invasive status
 R Code for correlating life history with status (threatened/invasive) of legumes
 
 Code & data from this article:
