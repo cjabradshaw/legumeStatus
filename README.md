@@ -1,4 +1,6 @@
-# predicting legume threat or invasive status
+# Predicting legume threat or invasive status
+<img align="right" src="fabaceae.png" alt="legume" width="200" style="margin-top: 20px">
+
 R Code for correlating life history with status (threatened/invasive) of legumes
 
 Code & data from this article:
