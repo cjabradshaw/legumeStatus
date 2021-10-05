@@ -10,7 +10,7 @@ The urgency and scale of the global biodiversity crisis requires the application
 herbaceous species that naturally span multiple floristic kingdoms and habitat types are more likely to become invasive. These results support the idea that at least for one of the richest plant families, species’ life-history and ecological traits correlate with a fate response to anthropogenic global change. Our results show that species do demonstrate particular susceptibility to either fate based on their evolved traits, and that traits generally correlated with invasiveness are also those that correlate with a reduced probability of becoming threatened.
 
 ## R file
-<code>legume.R</code>
+<code>legume.r</code>
 
 ## Data file
 legume4.csv
